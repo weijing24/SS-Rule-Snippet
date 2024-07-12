@@ -8,7 +8,8 @@ DOMAIN-SUFFIX, ipip.net
 # > WiFiman
 DOMAIN-SUFFIX, wifiman.com
 DOMAIN-SUFFIX, wifiman.me
-DOMAIN-SUFFIX, DOMAIN-SUFFIX, wifiman.me
+DOMAIN-SUFFIX, wifiman.me
+DOMAIN-SUFFIX, ubncloud.com
 
 # > Fast
 DOMAIN-SUFFIX,fast.com
