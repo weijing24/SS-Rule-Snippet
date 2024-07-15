@@ -1,0 +1,27 @@
+payload:
+# > For IP Test
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ip.fm
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ipip.net
+
+# > WiFiman
+  - DOMAIN-SUFFIX,wifiman.com
+  - DOMAIN-SUFFIX,wifiman.me
+  - DOMAIN-SUFFIX,wifiman.me
+  - DOMAIN-SUFFIX,ubncloud.com
+
+# > Fast
+  - DOMAIN-SUFFIX,fast.com
+
+# > Speedtest
+  - USER-AGENT,SpeedTest*
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - URL-REGEX,speedtest\d.macau.ctm.net:8080
+  - DOMAIN-SUFFIX,88-f.net
+  - DOMAIN,st.pautina-telecom.ru
+  - DOMAIN-SUFFIX,goodnet.su
+  - DOMAIN-SUFFIX,a-mo.net
