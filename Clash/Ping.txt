@@ -16,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,fast.com
 
 # > Speedtest
-  - USER-AGENT,SpeedTest*
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
