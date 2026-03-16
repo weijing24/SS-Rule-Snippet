@@ -1,7 +1,7 @@
 payload:
 # ########## This is for Cloud Storage  ###########
 # filen
-  -  DOMAIN-KEYWORD,filen
+  - DOMAIN-KEYWORD,filen
 # onedrive
   - PROCESS-NAME,onedrive
 # DOMAIN-SUFFIX,sharepoint.com

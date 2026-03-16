@@ -1,18 +1,37 @@
 payload:
-# > For openAI
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,chatgpt.com
+# Openai
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,oaistatic.com,
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openaicom.imgix.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-# > For claude
-  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN,openaicomproductionae5b.blob.core.windows.net
+# ChatGPT client
+  - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,ChatGPTHelper
+# Codex client
+  - PROCESS-NAME,Codex
+  - PROCESS-NAME,codex
+  - PROCESS-NAME,Codex Helper
+
+# Claude
   - DOMAIN-SUFFIX,anthropic.com
-# > For gemini
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+
+# Gemini
   - DOMAIN,gemini.google.com
-  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+# Grok
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai

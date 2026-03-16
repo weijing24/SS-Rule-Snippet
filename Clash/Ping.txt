@@ -9,7 +9,6 @@ payload:
 # > WiFiman
   - DOMAIN-SUFFIX,wifiman.com
   - DOMAIN-SUFFIX,wifiman.me
-  - DOMAIN-SUFFIX,wifiman.me
   - DOMAIN-SUFFIX,ubncloud.com
 
 # > Fast

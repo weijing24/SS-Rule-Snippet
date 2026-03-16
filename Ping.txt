@@ -1,15 +1,14 @@
 # > For IP Test
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip.fm
-DOMAIN-SUFFIX, ip-api.com
-DOMAIN-SUFFIX, ipinfo.io
-DOMAIN-SUFFIX, ipip.net
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipip.net
 
 # > WiFiman
-DOMAIN-SUFFIX, wifiman.com
-DOMAIN-SUFFIX, wifiman.me
-DOMAIN-SUFFIX, wifiman.me
-DOMAIN-SUFFIX, ubncloud.com
+DOMAIN-SUFFIX,wifiman.com
+DOMAIN-SUFFIX,wifiman.me
+DOMAIN-SUFFIX,ubncloud.com
 
 # > Fast
 DOMAIN-SUFFIX,fast.com

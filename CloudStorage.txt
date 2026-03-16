@@ -1,15 +1,18 @@
 # ########## This is for Cloud Storage  ###########
-# filen
+
+# Filen
 DOMAIN-KEYWORD,filen
-# onedrive
+
+# Onedrive
 PROCESS-NAME,onedrive
 # DOMAIN-SUFFIX,sharepoint.com
 # DOMAIN-SUFFIX,sharepointonline.com
 # DOMAIN-SUFFIX,onedrive.com
-# DOMAIN-KEYWORD
-# dropbox
+
+# Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-# mega
+
+# Mega
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.co.nz
